@@ -107,3 +107,9 @@ body {
   user-select: none;
   display: none;
 }
+
+.footer {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
