@@ -57,8 +57,3 @@ searchBox.addEventListener("keyup", (event) => {
 searchBtn.addEventListener("click", () => {
   checkWeather(searchBox.value);
 });
-
-
-
-
-checkWeather();
